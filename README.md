@@ -1,6 +1,6 @@
 # FSUNet
 
-[![TGRS](https://img.shields.io/badge/IEEE%20TGRS-2026-blue.svg)](https://ieeexplore.ieee.org/document/10764792) [![ArXiv](https://img.shields.io/badge/ArXiv-2025-red.svg)](https://arxiv.org/abs/2406.13445)
+//[![TGRS](https://img.shields.io/badge/IEEE%20TGRS-2026-blue.svg)](https://ieeexplore.ieee.org/document/10764792) [![ArXiv](https://img.shields.io/badge/ArXiv-2025-red.svg)](https://arxiv.org/abs/2406.13445)
 > **What’s in the Frequency: Wavelet-Guided Semantic Understanding for Infrared Small Target Detection**  
 > Wen Guo, Fulong Cai, and Wuzhou Quan
 
